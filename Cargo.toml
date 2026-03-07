@@ -1,0 +1,10 @@
+[package]
+name = "docup"
+version = "0.1.0"
+edition = "2024"
+description = "AI-driven document structuring tool."
+license = "Apache-2.0"
+repository = "https://github.com/Chinory/docup-rust"
+readme = "README.md"
+
+[dependencies]
